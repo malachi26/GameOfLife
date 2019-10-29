@@ -1,0 +1,6 @@
+c:\users\lyle.hart\documents\visual studio 2015\Projects\GameOfLife-CR\GameOfLife-CR\bin\Debug\GameOfLife-CR.exe.config
+c:\users\lyle.hart\documents\visual studio 2015\Projects\GameOfLife-CR\GameOfLife-CR\bin\Debug\GameOfLife-CR.exe
+c:\users\lyle.hart\documents\visual studio 2015\Projects\GameOfLife-CR\GameOfLife-CR\bin\Debug\GameOfLife-CR.pdb
+c:\users\lyle.hart\documents\visual studio 2015\Projects\GameOfLife-CR\GameOfLife-CR\obj\Debug\GameOfLife-CR.csprojResolveAssemblyReference.cache
+c:\users\lyle.hart\documents\visual studio 2015\Projects\GameOfLife-CR\GameOfLife-CR\obj\Debug\GameOfLife-CR.exe
+c:\users\lyle.hart\documents\visual studio 2015\Projects\GameOfLife-CR\GameOfLife-CR\obj\Debug\GameOfLife-CR.pdb
